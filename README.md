@@ -6,5 +6,8 @@
 
 > The only languages I really know are HTML, CSS and Batch. With IRL languages, I speak English, Dutch and a little Russian, for anyone wondering.
 
+> I am currently unemployed. I am also not in school any longer. I have no certificates or anything else to prove my worth. All I really have is some experience and several repositories you can check out.
 
-Nice to meet you all. If you are interested in learning my ways of coding, please check my repositories.
+
+  It was a pleasure meeting you. Interested in getting to know more of me? Check my repositories. 
+  Much love - Aviixx(Why)
